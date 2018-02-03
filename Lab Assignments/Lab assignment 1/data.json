@@ -1,0 +1,51 @@
+{
+    "courses": [
+        {
+            "description": "cloud computing",
+            "level": "ug",
+            "spring": "available",
+            "summer": "available",
+            "fall": "NA",
+            "degree": "cs",
+            "instructor": "Choi",
+            "prerequisites": "html",
+            "credits": 3,
+            "ratings": 4,
+            "links": "NA",
+            "availability":"False",
+            "duration":"16 weeks"
+        },
+
+        {
+            "description": "physics",
+            "level": "ug",
+            "spring": "NA",
+            "summer": "available",
+            "fall": "NA",
+            "degree": "cs",
+            "instructor": "George",
+            "prerequisites": "NA",
+            "credits": 3,
+            "ratings": 4,
+            "links": "NA",
+            "availability":"True",
+            "duration":"16 weeks"
+        },{
+            "description": "biology",
+            "level": "ug",
+            "spring": "NA",
+            "summer": "available",
+            "fall": "available",
+            "degree": "cs",
+            "instructor": "alaap",
+            "prerequisites": "NA",
+            "credits": 3,
+            "ratings": 4,
+            "links": "NA",
+            "availability":"True",
+            "duration":"16 weeks"
+        }
+
+
+    ]
+}
