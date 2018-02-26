@@ -1,36 +1,35 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <title>CS5551::Register</title>
+    <title>News APP API</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-    <link type="text/css" rel="stylesheet" href="css/stylesheet.css"/>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
+
+
 <body>
+
 <div class="container">
-    <div class="row top-buffer">
-        <div class="col-lg-6 col-lg-offset-3">
-            <div class="panel panel-default">
-                <div class="panel-heading">
-                    <div class="row-fluid">
-                        <a href="index.html">
-                        Home
-                        </a>
-                        <h1 class="text-center">Register</h1>
-                    </div>
-                </div>
-                <div class="panel-body">
-                    <label>Username</label>
-                    <input class="form-control" placeholder="Enter Username" type="text" />
-                    <label>Password</label>
-                    <input class="form-control" placeholder="Enter Password" type="password" />
-                    <input class="btn btn-lg btn-success btn-block" type="submit" onclick="window.location.href='login.html'" />
-                    <hr>
-                    <p class="text-center text-muted">Already have an account?</p>
-                    <input class="btn btn-lg btn-info btn-block" type="button" value="Login" onclick="window.location.href='login.html'" />
-                </div>
-            </div>
-        </div>
+
+    <div class="jumbotron text-center">
+        <h1>News Application Register</h1>
+    </div>
+
+
+    <div class="panel-body" align="center">
+        <label>Your UserName<input class="form-control" placeholder="Username" type="text" /></label><br><br>
+        <label>Your email<input class="form-control" placeholder="Email" type="email" /></label><br><br>
+        <label>Your contact number<input class="form-control" placeholder="Phone Number" type="text" /></label><br><br>
+        <label>enter password<input class="form-control" placeholder="Password" type="password" /></label><br><br>
+
+        <br><br><input class="btn btn-lg btn-primary" type="submit"/><br>
+        <br><input class="btn btn-lg btn-danger" type="button" value="Submit and Register" />
     </div>
 </div>
+
 </body>
 </html>
