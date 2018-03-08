@@ -2,152 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7d2acf9-e3a1-4e30-9966-ab75d0d13ad0" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/cloud_mongodb_connection.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/cloud_mongodb_create_collection.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/cloud_mongodb_delete.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/cloud_mongodb_drop_collection.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/cloud_mongodb_find.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/cloud_mongodb_insert.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/cloud_mongodb_update.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/mongodb_create_collection.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/mongodb_create_db.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/mongodb_delete.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/mongodb_drop_collection.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/mongodb_drop_db.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/mongodb_find.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/mongodb_insert.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/mongodb_update.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/.coveralls.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/.eslintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/CHANGES_3.0.0.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/HISTORY.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/Makefile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/THIRD-PARTY-NOTICES" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/boot_auth.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/conf.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/insert_bench.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/lib/admin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/lib/aggregation_cursor.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/lib/apm.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/lib/authenticate.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/lib/bulk/common.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/lib/bulk/ordered.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/lib/bulk/unordered.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/lib/change_stream.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/lib/collection.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/lib/command_cursor.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/lib/cursor.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/lib/db.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/lib/gridfs-stream/download.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/lib/gridfs-stream/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/lib/gridfs-stream/upload.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/lib/gridfs/chunk.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/lib/gridfs/grid_store.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/lib/metadata.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/lib/mongo_client.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/lib/topologies/mongos.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/lib/topologies/replset.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/lib/topologies/server.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/lib/topologies/topology_base.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/lib/url_parser.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/lib/utils.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/.bin/semver" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/.bin/semver.cmd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/bson/HISTORY.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/bson/LICENSE.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/bson/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/bson/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/bson/browser_build/bson.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/bson/browser_build/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/bson/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/bson/lib/bson/binary.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/bson/lib/bson/bson.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/bson/lib/bson/code.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/bson/lib/bson/db_ref.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/bson/lib/bson/decimal128.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/bson/lib/bson/double.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/bson/lib/bson/float_parser.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/bson/lib/bson/int_32.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/bson/lib/bson/long.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/bson/lib/bson/map.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/bson/lib/bson/max_key.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/bson/lib/bson/min_key.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/bson/lib/bson/objectid.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/bson/lib/bson/parser/calculate_size.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/bson/lib/bson/parser/deserializer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/bson/lib/bson/parser/serializer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/bson/lib/bson/regexp.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/bson/lib/bson/symbol.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/bson/lib/bson/timestamp.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/bson/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/mongodb-core/.coveralls.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/mongodb-core/.eslintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/mongodb-core/HISTORY.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/mongodb-core/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/mongodb-core/Makefile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/mongodb-core/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/mongodb-core/THIRD-PARTY-NOTICES" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/mongodb-core/conf.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/mongodb-core/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/mongodb-core/lib/auth/gssapi.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/mongodb-core/lib/auth/mongocr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/mongodb-core/lib/auth/plain.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/mongodb-core/lib/auth/scram.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/mongodb-core/lib/auth/sspi.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/mongodb-core/lib/auth/x509.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/mongodb-core/lib/connection/command_result.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/mongodb-core/lib/connection/commands.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/mongodb-core/lib/connection/connection.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/mongodb-core/lib/connection/logger.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/mongodb-core/lib/connection/pool.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/mongodb-core/lib/connection/utils.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/mongodb-core/lib/cursor.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/mongodb-core/lib/error.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/mongodb-core/lib/sessions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/mongodb-core/lib/tools/smoke_plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/mongodb-core/lib/topologies/mongos.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/mongodb-core/lib/topologies/read_preference.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/mongodb-core/lib/topologies/replset.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/mongodb-core/lib/topologies/replset_state.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/mongodb-core/lib/topologies/server.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/mongodb-core/lib/topologies/shared.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/mongodb-core/lib/uri_parser.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/mongodb-core/lib/utils.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/mongodb-core/lib/wireprotocol/2_6_support.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/mongodb-core/lib/wireprotocol/3_2_support.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/mongodb-core/lib/wireprotocol/compression.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/mongodb-core/lib/wireprotocol/shared.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/mongodb-core/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/mongodb-core/yarn.lock" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/require_optional/.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/require_optional/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/require_optional/HISTORY.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/require_optional/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/require_optional/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/require_optional/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/require_optional/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/require_optional/test/nestedTest/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/require_optional/test/nestedTest/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/require_optional/test/require_optional_tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/resolve-from/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/resolve-from/license" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/resolve-from/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/resolve-from/readme.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/semver/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/semver/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/semver/bin/semver" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/semver/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/semver/range.bnf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/node_modules/semver/semver.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/MongoDB/node_modules/mongodb/yarn.lock" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/UseCase/D32.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/UseCase/D3_Tree.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICP/ICP6/Web_Lesson6_SourceCode/UseCase/treeData.json" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lab assgnmts/Lab Assignment 3/Source Code/Twitter friends list/dndTree.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lab assgnmts/Lab Assignment 3/Source Code/Twitter friends list/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lab assgnmts/Lab Assignment 3/Source Code/Twitter friends list/treeDat11a.json" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab assgnmts/Lab Assignment 3/Source Code/Twitter friends list/treeData.json" afterPath="$PROJECT_DIR$/lab assgnmts/Lab Assignment 3/Source Code/Twitter friends list/treeData.json" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -165,21 +23,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="D3_Tree.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../WEB_5590-pallay/LAB - 3/D3_Twitter/D3_Tree.html">
+      <file leaf-file-name="D3_Tree.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lab assgnmts/Lab Assignment 3/Source Code/Twitter friends list/D3_Tree.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1144">
-              <caret line="11" column="30" lean-forward="false" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lab assgnmts/Lab Assignment 3/Source Code/Twitter friends list/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-726">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="-616">
+              <caret line="38" column="20" lean-forward="true" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -188,8 +36,8 @@
       <file leaf-file-name="treeData.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lab assgnmts/Lab Assignment 3/Source Code/Twitter friends list/treeData.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-8646">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="18832">
+              <caret line="856" column="1" lean-forward="false" selection-start-line="856" selection-start-column="1" selection-end-line="856" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -245,6 +93,8 @@
         <option value="$PROJECT_DIR$/lab assgnmts/Lab Assignment 3/Youtube/home.html" />
         <option value="$PROJECT_DIR$/lab assgnmts/Lab Assignment 3/Youtube/app.js" />
         <option value="$PROJECT_DIR$/lab assgnmts/Lab Assignment 3/Youtube/style.css" />
+        <option value="$PROJECT_DIR$/lab assgnmts/Lab Assignment 3/Source Code/Twitter friends list/D3_Tree.html" />
+        <option value="$PROJECT_DIR$/lab assgnmts/Lab Assignment 3/Source Code/Twitter friends list/treeData.json" />
       </list>
     </option>
   </component>
@@ -253,9 +103,6 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/ICP/ICP 7/Web_Lesson7_SourceCode/UseCase/MEAN_Stack_App/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-9" />
@@ -496,12 +343,12 @@
       <workItem from="1519506888525" duration="3468000" />
       <workItem from="1519603247128" duration="32000" />
       <workItem from="1519603567129" duration="146000" />
-      <workItem from="1520468976644" duration="5975000" />
+      <workItem from="1520468976644" duration="6801000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30643000" />
+    <option name="totallyTimeSpent" value="31469000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="0" />
@@ -536,7 +383,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Lab assignments/simple lab ass 1/index.html" />
     <entry file="file://$PROJECT_DIR$/Lab assignments/simple lab ass 1/index.html" />
     <entry file="file://$PROJECT_DIR$/ICP/ICP 1/Source/icpl 1.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -775,18 +621,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab assgnmts/Lab Assignment 3/Source Code/Twitter friends list/treeData.json">
+    <entry file="file://$PROJECT_DIR$/lab assgnmts/Lab Assignment 3/Source Code/Twitter friends list/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8646">
+        <state relative-caret-position="-726">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab assgnmts/Lab Assignment 3/Source Code/Twitter friends list/index.html">
+    <entry file="file://$PROJECT_DIR$/lab assgnmts/Lab Assignment 3/Source Code/Twitter friends list/treeData.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-726">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="18832">
+          <caret line="856" column="1" lean-forward="false" selection-start-line="856" selection-start-column="1" selection-end-line="856" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab assgnmts/Lab Assignment 3/Source Code/Twitter friends list/D3_Tree.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-616">
+          <caret line="38" column="20" lean-forward="true" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
           <folding />
         </state>
       </provider>
