@@ -29,7 +29,6 @@
 
 <body>
 
-<!-- load the d3.js library -->
 <script src="http://d3js.org/d3.v3.min.js"></script>
 
 <script>
@@ -53,7 +52,6 @@
         .append("g")
         .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-    // load the external data
     d3.json("treeData.json", function(error, treeData) {
         root = treeData[0];
         update(root);
@@ -61,18 +59,14 @@
 
     function update(source) {
 
-        // Compute the new tree layout.
         var nodes = tree.nodes(root).reverse(),
             links = tree.links(nodes);
 
-        // Normalize for fixed-depth.
         nodes.forEach(function(d) { d.y = d.depth * 180; });
 
-        // Declare the nodes…
         var node = svg.selectAll("g.node")
             .data(nodes, function(d) { return d.id || (d.id = ++i); });
 
-        // Enter the nodes.
         var nodeEnter = node.enter().append("g")
             .attr("class", "node")
             .attr("transform", function(d) {
@@ -91,11 +85,9 @@
             .text(function(d) { return d.name; })
             .style("fill-opacity", 1);
 
-        // Declare the links…
         var link = svg.selectAll("path.link")
             .data(links, function(d) { return d.target.id; });
 
-        // Enter the links.
         link.enter().insert("path", "g")
             .attr("class", "link")
             .attr("d", diagonal);
