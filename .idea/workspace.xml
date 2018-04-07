@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d7d2acf9-e3a1-4e30-9966-ab75d0d13ad0" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lab assgnmts/Lab Assignment 3/Source Code/Twitter friends list/dndTree.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lab assgnmts/Lab Assignment 3/Source Code/Twitter friends list/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lab assgnmts/Lab Assignment 3/Source Code/Twitter friends list/treeDat11a.json" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab assgnmts/Lab Assignment 3/Source Code/Twitter friends list/treeData.json" afterPath="$PROJECT_DIR$/lab assgnmts/Lab Assignment 3/Source Code/Twitter friends list/treeData.json" />
-    </list>
+    <list default="true" id="d7d2acf9-e3a1-4e30-9966-ab75d0d13ad0" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -343,16 +338,16 @@
       <workItem from="1519506888525" duration="3468000" />
       <workItem from="1519603247128" duration="32000" />
       <workItem from="1519603567129" duration="146000" />
-      <workItem from="1520468976644" duration="6801000" />
+      <workItem from="1520468976644" duration="6910000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31469000" />
+    <option name="totallyTimeSpent" value="31578000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24895833" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
